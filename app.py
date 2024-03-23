@@ -3,7 +3,6 @@ from flasgger import Swagger
 
 app = Flask(__name__)
 Swagger(app)
-
 usuarios = [
     {
         'cpf': 11111111111,
