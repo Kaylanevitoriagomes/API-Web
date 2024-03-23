@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, request
 from flasgger import Swagger
 
+
 app = Flask(__name__)
 Swagger(app)
 usuarios = [
