@@ -15,6 +15,7 @@ usuarios = [
         'nome': 'Maria',
         'datanascimento': '2023-08-20'
     },
+    
     {
         'cpf': 33333333333,
         'nome': 'Pedro',
